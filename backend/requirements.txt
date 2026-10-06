@@ -4,3 +4,5 @@ Flask-JWT-Extended
 Flask-Cors
 pandas
 openpyxl
+psycopg[binary]
+gunicorn
